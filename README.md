@@ -6,6 +6,8 @@ Move Purger.app to ./Applications and start it. A new menubar item should appear
 
 ![Purger screenshot](https://github.com/rootd/Purger/raw/master/screenshot.png "Purger screenshot")
 
+Download the binary [here](https://github.com/rootd/Purger/raw/master/Purger.zip)
+
 License (MIT)
 =============
 Copyright (c) 2012 Alexander Meiler
